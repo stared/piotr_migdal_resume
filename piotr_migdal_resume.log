@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  20 DEC 2022 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  20 DEC 2022 12:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1278,31 +1278,31 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 131.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 218.
+(Font)              scaled to size 10.0pt on input line 221.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 218.
+(Font)              scaled to size 12.0pt on input line 221.
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 224--224
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 227--227
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 228--228
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 231--231
 []|[]| 
  []
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 232--232
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 235--235
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 236--236
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 239--239
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 240--240
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 243--243
 []|[]| 
  []
 
@@ -1319,7 +1319,7 @@ Package logreq Info: Writing requests to 'piotr_migdal_resume.run.xml'.
 Here is how much of TeX's memory you used:
  40437 strings out of 474971
  802337 string characters out of 5778125
- 1525244 words of memory out of 5000000
+ 1527244 words of memory out of 5000000
  61285 multiletter control sequences out of 15000+600000
  784605 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1337,7 +1337,7 @@ nts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-di
 st/fonts/type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on piotr_migdal_resume.pdf (1 page, 870172 bytes).
+Output written on piotr_migdal_resume.pdf (1 page, 870552 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
