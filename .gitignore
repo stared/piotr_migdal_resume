@@ -1,4 +1,4 @@
-# LaTex
+# LaTeX
 
 *.pdf
 *.aux
@@ -12,3 +12,7 @@
 *.run.xml
 *.gz
 *.xmpi
+
+# system
+
+.DS_Store
