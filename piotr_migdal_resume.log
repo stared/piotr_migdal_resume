@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  21 DEC 2022 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  21 DEC 2022 19:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1266,17 +1266,17 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 127.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 129.
+(Font)              scaled to size 10.0pt on input line 137.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 129.
+(Font)              scaled to size 9.0pt on input line 137.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 131.
+ine 139.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 131.
+(Font)              scaled to size 9.0pt on input line 139.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 221.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
@@ -1323,7 +1323,7 @@ Here is how much of TeX's memory you used:
  61285 multiletter control sequences out of 15000+600000
  784605 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,10n,120p,1144b,2587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,10n,120p,1144b,2379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/o
 pt/texlive/texdir/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/opt/texlive/te
 xdir/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/opt/texlive/texdir/texmf-di
@@ -1337,7 +1337,7 @@ nts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-di
 st/fonts/type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on piotr_migdal_resume.pdf (1 page, 295670 bytes).
+Output written on piotr_migdal_resume.pdf (1 page, 287491 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
