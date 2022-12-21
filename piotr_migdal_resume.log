@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  20 DEC 2022 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  21 DEC 2022 15:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1253,14 +1253,14 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 115.
-<piotr migdal face direct smiling 2022 by cytacka.jpg, id=20, 1003.75pt x 1003.
-75pt>
-File: piotr migdal face direct smiling 2022 by cytacka.jpg Graphic file (type j
-pg)
-<use piotr migdal face direct smiling 2022 by cytacka.jpg>
-Package pdftex.def Info: piotr migdal face direct smiling 2022 by cytacka.jpg  
-used on input line 115.
-(pdftex.def)             Requested size: 1003.74756pt x 1003.74756pt.
+<piotr migdal face direct smiling 2022 by cytacka 500px.jpg, id=20, 150.5625pt 
+x 150.5625pt>
+File: piotr migdal face direct smiling 2022 by cytacka 500px.jpg Graphic file (
+type jpg)
+<use piotr migdal face direct smiling 2022 by cytacka 500px.jpg>
+Package pdftex.def Info: piotr migdal face direct smiling 2022 by cytacka 500px
+.jpg  used on input line 115.
+(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 127.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
@@ -1308,7 +1308,7 @@ Overfull \hbox (1.59999pt too wide) in paragraph at lines 243--243
 
 [1
 
- <./piotr migdal face direct smiling 2022 by cytacka.jpg>]
+ <./piotr migdal face direct smiling 2022 by cytacka 500px.jpg>]
 (./piotr_migdal_resume.aux)
 Package rerunfilecheck Info: File `piotr_migdal_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1318,7 +1318,7 @@ Package logreq Info: Writing requests to 'piotr_migdal_resume.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  40437 strings out of 474971
- 802337 string characters out of 5778125
+ 802379 string characters out of 5778125
  1527244 words of memory out of 5000000
  61285 multiletter control sequences out of 15000+600000
  784605 words of font info for 65 fonts, out of 8000000 for 9000
@@ -1337,7 +1337,7 @@ nts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-di
 st/fonts/type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on piotr_migdal_resume.pdf (1 page, 870552 bytes).
+Output written on piotr_migdal_resume.pdf (1 page, 295670 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
