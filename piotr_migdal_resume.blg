@@ -1,9 +1,9 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'piotr_migdal_resume.blg'
-[116] biber:340> INFO - === Wed Dec 21, 2022, 19:57:13
-[136] Biber.pm:418> INFO - Reading 'piotr_migdal_resume.bcf'
-[236] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
-[253] bbl.pm:654> INFO - Writing 'piotr_migdal_resume.bbl' with encoding 'UTF-8'
-[253] bbl.pm:757> INFO - Output to piotr_migdal_resume.bbl
-[253] Biber.pm:130> WARN - The file 'piotr_migdal_resume.bcf' does not contain any citations!
-[253] Biber.pm:132> INFO - WARNINGS: 1
+[113] biber:340> INFO - === Thu Dec 22, 2022, 14:07:47
+[132] Biber.pm:418> INFO - Reading 'piotr_migdal_resume.bcf'
+[232] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
+[250] bbl.pm:654> INFO - Writing 'piotr_migdal_resume.bbl' with encoding 'UTF-8'
+[250] bbl.pm:757> INFO - Output to piotr_migdal_resume.bbl
+[250] Biber.pm:130> WARN - The file 'piotr_migdal_resume.bcf' does not contain any citations!
+[250] Biber.pm:132> INFO - WARNINGS: 1
