@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  22 DEC 2022 14:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  2 JAN 2023 18:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **piotr_migdal_resume.tex
 (./piotr_migdal_resume.tex
-LaTeX2e <2022-11-01>
-L3 programming layer <2022-11-02> (./altacv.cls
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17> (./altacv.cls
 Document Class: altacv 2022/11/03 AltaCV v1.6.5, yet another alternative class 
 for a resume/curriculum vitae.
 (/opt/texlive/texdir/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -31,8 +31,8 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen141
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -230,7 +230,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip50
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1463.
 
@@ -310,7 +310,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-11-02 L3 programming layer (loader) 
+Package: expl3 2022-12-17 L3 programming layer (loader) 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
@@ -320,10 +320,10 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-06-22 L3 Experimental document command parser
+Package: xparse 2022-12-17 L3 Experimental document command parser
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-hel
 per.sty
@@ -353,20 +353,20 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/opt/texlive/texdir/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
 (/opt/texlive/texdir/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2022/11/13 v3.2 ragged2e Package
-\CenteringLeftskip=\skip50
-\RaggedLeftLeftskip=\skip51
-\RaggedRightLeftskip=\skip52
-\CenteringRightskip=\skip53
-\RaggedLeftRightskip=\skip54
-\RaggedRightRightskip=\skip55
-\CenteringParfillskip=\skip56
-\RaggedLeftParfillskip=\skip57
-\RaggedRightParfillskip=\skip58
-\JustifyingParfillskip=\skip59
-\CenteringParindent=\skip60
-\RaggedLeftParindent=\skip61
-\RaggedRightParindent=\skip62
-\JustifyingParindent=\skip63
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
@@ -707,7 +707,7 @@ Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
 ))) (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip64
+\labelindent=\skip65
 \enit@outerparindent=\dimen263
 \enit@toks=\toks37
 \enit@inbox=\box72
@@ -755,9 +755,9 @@ Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip65
+\multirow@colwidth=\skip66
 \multirow@cntb=\count304
-\multirow@dima=\skip66
+\multirow@dima=\skip67
 \bigstrutjot=\dimen268
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/tabularx.sty
@@ -769,8 +769,8 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box74
 \extrarowheight=\dimen270
 \NC@list=\toks40
-\extratabsurround=\skip67
-\backup@length=\skip68
+\extratabsurround=\skip68
+\backup@length=\skip69
 \ar@cellbox=\box75
 )
 \TX@col@width=\dimen271
@@ -786,9 +786,9 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count306
 \cp@tempcnt=\count307
 )
-\altacv@photos@width=\skip69
-\altacv@photo@diam@left=\skip70
-\altacv@photo@diam@right=\skip71
+\altacv@photos@width=\skip70
+\altacv@photo@diam@left=\skip71
+\altacv@photo@diam@right=\skip72
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
@@ -813,8 +813,8 @@ Package: paracol 2018/12/31 v1.35
 \pcol@textfloatsep=\dimen278
 \pcol@lrmargin=\dimen279
 \pagerim=\dimen280
-\pcol@topskip=\skip72
-\belowfootnoteskip=\skip73
+\pcol@topskip=\skip73
+\belowfootnoteskip=\skip74
 \pcol@topfnotes=\box78
 \pcol@prespan=\box79
 \pcol@rightpage=\box80
@@ -892,14 +892,14 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@sectionciteorderinternal@0=\count359
 \blx@entrysetcounter=\count360
 \blx@biblioinstance=\count361
-\labelnumberwidth=\skip74
-\labelalphawidth=\skip75
-\biblabelsep=\skip76
-\bibitemsep=\skip77
-\bibnamesep=\skip78
-\bibinitsep=\skip79
-\bibparsep=\skip80
-\bibhang=\skip81
+\labelnumberwidth=\skip75
+\labelalphawidth=\skip76
+\biblabelsep=\skip77
+\bibitemsep=\skip78
+\bibnamesep=\skip79
+\bibinitsep=\skip80
+\bibparsep=\skip81
+\bibhang=\skip82
 \blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language87
@@ -984,20 +984,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count430
 \c@pageref=\count431
 \c@savedpageref=\count432
-\shorthandwidth=\skip82
-\shortjournalwidth=\skip83
-\shortserieswidth=\skip84
-\shorttitlewidth=\skip85
-\shortauthorwidth=\skip86
-\shorteditorwidth=\skip87
-\locallabelnumberwidth=\skip88
-\locallabelalphawidth=\skip89
-\localshorthandwidth=\skip90
-\localshortjournalwidth=\skip91
-\localshortserieswidth=\skip92
-\localshorttitlewidth=\skip93
-\localshortauthorwidth=\skip94
-\localshorteditorwidth=\skip95
+\shorthandwidth=\skip83
+\shortjournalwidth=\skip84
+\shortserieswidth=\skip85
+\shorttitlewidth=\skip86
+\shortauthorwidth=\skip87
+\shorteditorwidth=\skip88
+\locallabelnumberwidth=\skip89
+\locallabelalphawidth=\skip90
+\localshorthandwidth=\skip91
+\localshortjournalwidth=\skip92
+\localshortserieswidth=\skip93
+\localshorttitlewidth=\skip94
+\localshortauthorwidth=\skip95
+\localshorteditorwidth=\skip96
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1085,7 +1085,7 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-11-02 L3 programming layer (loader) 
+(biblatex)             2022-12-17 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -1253,7 +1253,7 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 118.
-<piotr migdal face direct smiling 2022 by cytacka 500px.jpg, id=20, 150.5625pt 
+<piotr migdal face direct smiling 2022 by cytacka 500px.jpg, id=19, 150.5625pt 
 x 150.5625pt>
 File: piotr migdal face direct smiling 2022 by cytacka 500px.jpg Graphic file (
 type jpg)
@@ -1317,11 +1317,11 @@ Package logreq Info: Writing requests to 'piotr_migdal_resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40437 strings out of 474971
- 802379 string characters out of 5778125
- 1528244 words of memory out of 5000000
- 61285 multiletter control sequences out of 15000+600000
- 784605 words of font info for 65 fonts, out of 8000000 for 9000
+ 40437 strings out of 476093
+ 802379 string characters out of 5793588
+ 1892793 words of memory out of 5000000
+ 60163 multiletter control sequences out of 15000+600000
+ 827633 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,10n,120p,1144b,2379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/o
@@ -1337,9 +1337,9 @@ nts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-di
 st/fonts/type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on piotr_migdal_resume.pdf (1 page, 287946 bytes).
+Output written on piotr_migdal_resume.pdf (1 page, 279561 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
