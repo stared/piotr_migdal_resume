@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.1)  27 APR 2023 10:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  14 AUG 2024 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **piotr_migdal_resume.tex
 (./piotr_migdal_resume.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (./altacv.cls
+L3 programming layer <2023-02-22> (./altacv.cls
 Document Class: altacv 2022/11/03 AltaCV v1.6.5, yet another alternative class 
 for a resume/curriculum vitae.
 (/opt/texlive/texdir/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -310,10 +310,10 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-03-30 L3 programming layer (loader) 
+Package: expl3 2023-02-22 L3 programming layer (loader) 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box51
 ))
@@ -670,7 +670,7 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \arrowsize=\dimen262
 )) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2023/03/17 version 6.0.3 text color boxes
+Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
@@ -699,7 +699,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box70
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '6.0.3'
+Library (tcolorbox): 'tcbskins.code.tex' version '6.0.1'
 (/opt/texlive/texdir/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
 Package: tikzfill.image 2022/07/20 v1.0.0 Image filling library for TikZ
 
@@ -712,7 +712,7 @@ File: tikzlibraryfill.image.code.tex 2022/07/20 v1.0.0 Image filling library
 \l__tikzfill_img_box=\box71
 ))
 (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.3'
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.1'
 ))) (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip65
@@ -849,7 +849,7 @@ LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 ))
 (./pubs-num.tex (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 (/opt/texlive/texdir/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count318
@@ -918,7 +918,7 @@ Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
@@ -1010,13 +1010,13 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 \c@textcitecount=\count433
 \c@textcitetotal=\count434
 \c@textcitemaxnames=\count435
@@ -1040,17 +1040,17 @@ Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+File: numeric-comp.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count442
 \c@bbx:relatedtotal=\count443
 ))))
@@ -1063,7 +1063,7 @@ Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+File: numeric-comp.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
 \c@cbx@tempcnta=\count444
 \c@cbx@tempcntb=\count445
 \c@cbx@tempcntc=\count446
@@ -1093,12 +1093,13 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2023-03-30 L3 programming layer (loader) 
+(biblatex)             2023-02-22 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
 )))
 \@quotelevel=\count448
 \@quotereset=\count449
@@ -1201,7 +1202,7 @@ Package hyperref Info: Link coloring OFF on input line 80.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -1273,57 +1274,56 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 130.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 145.
+(Font)              scaled to size 10.0pt on input line 141.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 145.
+(Font)              scaled to size 9.0pt on input line 141.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 147.
+ine 143.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 147.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 231.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 231.
+(Font)              scaled to size 9.0pt on input line 143.
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 237--237
+Overfull \hbox (1.18408pt too wide) in paragraph at lines 144--145
+\T1/lato-TLF/m/n/9 as-set gen-er-a-tion, and serv-ing as tech lead for a con-ve
+r-sa-tional AI startup.  
+ []
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 232.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 232.
+
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 238--238
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 241--241
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 242--242
 []|[]| 
  []
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 245--245
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 246--246
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 249--249
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 250--250
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 253--253
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 254--254
 []|[]| 
  []
 
 [1
 
-{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/opt/texlive
-/texdir/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/opt/texlive/texd
-ir/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/opt/texlive/texdir/te
-xmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/opt/texlive/texdir/texmf-d
-ist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/opt/texlive/texdir/texmf-dist
-/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/opt/texlive/texdir/texmf-dist/fo
-nts/enc/dvips/lato/a_rt66h3.enc}{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips
-/fontawesome5/fa5free3.enc} <./piotr migdal face direct smiling 2022 by cytacka
- 500px.jpg>] (./piotr_migdal_resume.aux)
+ <./piotr migdal face direct smiling 2022 by cytacka 500px.jpg>]
+(./piotr_migdal_resume.aux)
 Package rerunfilecheck Info: File `piotr_migdal_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'piotr_migdal_resume.run.xml'.
@@ -1331,22 +1331,29 @@ Package logreq Info: Writing requests to 'piotr_migdal_resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40556 strings out of 476017
- 806585 string characters out of 5791771
- 1894666 words of memory out of 5000000
- 60349 multiletter control sequences out of 15000+600000
+ 40532 strings out of 476024
+ 806168 string characters out of 5792021
+ 1893388 words of memory out of 5000000
+ 60322 multiletter control sequences out of 15000+600000
  827633 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,10n,120p,1144b,2591s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5B
-rands-Regular.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesom
-e5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typol
-and/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lat
-o/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lat
-o-Regular.pfb>
-Output written on piotr_migdal_resume.pdf (1 page, 279914 bytes).
+{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/o
+pt/texlive/texdir/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/opt/texlive/te
+xdir/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/opt/texlive/texdir/texmf-di
+st/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/opt/texlive/texdir/texmf-dist/
+fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/opt/texlive/texdir/texmf-dist/fon
+ts/enc/dvips/fontawesome5/fa5free1.enc}{/opt/texlive/texdir/texmf-dist/fonts/en
+c/dvips/fontawesome5/fa5free2.enc}{/opt/texlive/texdir/texmf-dist/fonts/enc/dvi
+ps/fontawesome5/fa5free0.enc}</opt/texlive/texdir/texmf-dist/fonts/type1/public
+/fontawesome5/FontAwesome5Brands-Regular.pfb></opt/texlive/texdir/texmf-dist/fo
+nts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/t
+exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-di
+st/fonts/type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fo
+nts/type1/typoland/lato/Lato-Regular.pfb>
+Output written on piotr_migdal_resume.pdf (1 page, 279340 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
